@@ -1,4 +1,4 @@
-<img width="1224" height="871" alt="class" src="https://github.com/user-attachments/assets/f60be2bb-d62c-4cd0-91d8-63eb7751fad4" /># Library-Management-System
+
 # Reg No: 212224240002
 # Name: Abishek P
 # Date: 25-02-2026
